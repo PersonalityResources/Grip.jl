@@ -1,5 +1,5 @@
 const active_commands = LittleDict([
-    :gm => false,
+    :gm => true,
     :j => true,
     :react => true,
     :tz => true,
