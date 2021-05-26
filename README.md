@@ -1,19 +1,3 @@
-# HoJBot
+# Grip
 
-This is the Discord bot for Humans of Julia community server.
-
-**All HoJ members are invited to contribute to this project.**
-
-Please read the [Contribution Guide](CONTRIBUTING.md) to get started.
-
-## Features
-
-1. The _happy reactor_: automatically reacts to your message with a smiley when your message sounds happy. Similarly, there are also _excited_ and _disappointed_ reactors.
-
-2. The time zone command (`tz`): easily converts a date/time into multiple predefined timezones. This is perfect for setting up meeting time that works for our global community.
-
-![tz demo](images/demo.gif)
-
-3. The julia command (`j`): currently, only `j?<name>` or, alternatively, `j doc <name>` is implemented, returning the docstring for `<name>`.
-
-![j demo](images/j_demo.gif)
+This is a fork of the Discord bot (HoJBot) from the Humans of Julia (HoJ) community server. It is adapted to our own use case on the [personality typing Discord server](https://disboard.org/de/server/799986771890405376). Feel free to contribute to both projects, here and upstream.
