@@ -1,0 +1,9 @@
+Release: 1.7.2021
+wöchentliche Updates im Modchat
+
+Features: 
+
+-Prequel-Memes
+-Rollenverteilung und 16P Command
+-Typing-Warteschlangen
+-Memberliste mit Custom Commands
